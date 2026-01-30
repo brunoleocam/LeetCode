@@ -1,9 +1,0 @@
-{
-    "chat.mcp.serverSampling": {
-        "LeetCode/.vscode/mcp.json: io.github.github/github-mcp-server": {
-            "allowedModels": [
-                "copilot/auto"
-            ]
-        }
-    }
-}
